@@ -6,6 +6,8 @@ namespace CommonMealManager.Model
 {
     class Person
     {
+        // Just a GITHUB test com
+
         // Properties
         
         public int Id
